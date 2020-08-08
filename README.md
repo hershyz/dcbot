@@ -1,4 +1,4 @@
-<h1>dcbot</h1>
+<h1>Discord Voice Disconnect Bot</h1>
 <p>Disconnect people from Discord calls using a CLI application.</p>
 
 <h4>Dependancies:</h4>
